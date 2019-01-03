@@ -1,19 +1,24 @@
 一、测试
 1、AWS实例测试：Z1D、C5D
 cpuinfo、dmidecode、fio、numactl、x86info、lspci
+c5n18x网络、存储、Spot instance
+aliyun shenlong
 
 2、信息下载
 yuzhoufangchan
 
 3、云上软件
 基础软件：MobaXterm、chrome、notepad++、python、awscli、winrar
-进阶软件：wireshark、Postman、beyondcompare3、7zip、Everything、JavaJDK
+进阶软件：wireshark、Postman、beyondcompare3、7zip、Everything、JavaJDK、puttygen.exe
 
-数据库连接：Mysql workbench、Sqlserver client
-数据存储：Mega网盘、百度网盘
+数据库连接：Mysql workbench、Sqlserver client、mysql-connector-java-5.1.39.zip、CDataJDBCDriverforAmazonDynamoDB.zip
+数据存储：Mega网盘、百度网盘（12306、模特）
 
 4、EMon test
 sep、Ruby
+5、windows清理
+SpaceSniffer_1.1.4.0.1399531007.exe
+Windows_Update_Clean_Tool.zip
 
 二、Project
 1、Project video download 爬虫
@@ -26,13 +31,20 @@ dynamodb_local编程
 python os + lambda
 
 3、Teleport pro ultra 网站爬取
-
+Teleport.Ultra.v1.70.Retail.Cracked-BRD.rar
 4、ELK转换及处理
 CDATA JDBC Driver for Dynamodb
 
 5、云上性能测试
 perfkitbenchmarker、result to quickInsight
 C5、默认执行的（测试结果数据要重新执行）
+6、i3测试
+fio、nvmessd、mongodb、SPDK
+7、Qos测试
+aliyun ESSD、AWS io1、GP2、perf
+8、流日志处理
+blog：quicksight+athena+S3
 
 三、信息删除
 1、leo-onlyfortest的秘钥、leo-outlook的秘钥、onlyfortest的秘钥、leoaws2018、onlyleo
+四、软件备份
