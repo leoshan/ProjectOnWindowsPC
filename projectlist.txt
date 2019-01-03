@@ -1,0 +1,38 @@
+一、测试
+1、AWS实例测试：Z1D、C5D
+cpuinfo、dmidecode、fio、numactl、x86info、lspci
+
+2、信息下载
+yuzhoufangchan
+
+3、云上软件
+基础软件：MobaXterm、chrome、notepad++、python、awscli、winrar
+进阶软件：wireshark、Postman、beyondcompare3、7zip、Everything、JavaJDK
+
+数据库连接：Mysql workbench、Sqlserver client
+数据存储：Mega网盘、百度网盘
+
+4、EMon test
+sep、Ruby
+
+二、Project
+1、Project video download 爬虫
+Python:JSON+Request+wget+boto3+OS
+AWS:lambda+SQS+S3+Dynamodb
+dynamodb_local编程 
+代码已上库、日志信息损失、调试过程代码有损失
+
+2、Lambda SystemInfo
+python os + lambda
+
+3、Teleport pro ultra 网站爬取
+
+4、ELK转换及处理
+CDATA JDBC Driver for Dynamodb
+
+5、云上性能测试
+perfkitbenchmarker、result to quickInsight
+C5、默认执行的（测试结果数据要重新执行）
+
+三、信息删除
+1、leo-onlyfortest的秘钥、leo-outlook的秘钥、onlyfortest的秘钥、leoaws2018、onlyleo
